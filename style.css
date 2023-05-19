@@ -1,10 +1,23 @@
-header{
-    background-color: blue; 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.GB{
+    background-color: rgb(87, 87, 235); 
 
     display:flex ;
     justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .logo-educa{
     width: 20%;
+}
+
+.GB-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
