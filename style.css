@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 .GB{
     background-color: rgb(87, 87, 235); 
@@ -23,7 +26,7 @@
 }
 
 .escola-imagem{
-    width: 50%;
+    width: 20%;
 
 
 }
