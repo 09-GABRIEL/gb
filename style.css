@@ -16,7 +16,7 @@ body{
 }
 
 .logo-educa{
-    width: 20%;
+    width: 40%;
 }
 
 .GB-lista-item{
@@ -28,5 +28,11 @@ body{
 .escola-imagem{
     width: 20%;
 
+
+}
+.escola{
+display: flex;
+align-items: center;
+padding: 0 0;
 
 }
